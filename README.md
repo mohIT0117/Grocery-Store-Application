@@ -1,4 +1,4 @@
-# Grocer-Store-App
+# Grocery-Store-App
 A web-based grocery shopping application like Blinkit, Otipy and Zepto.
 
 DEMO Images ( Screenshots )-
